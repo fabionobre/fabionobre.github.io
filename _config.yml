@@ -5,26 +5,28 @@ gems:
   - jemoji
   
 # Site settings
-title: "Mediator"
+title: "Fabio Nobre"
 description: > # this means to ignore newlines until "email:"
-   A Jekyll theme - Medium inspired
+   Idéias aleatórias, tecnologia, computação, programação e afins
 
-email: a-mail@mail.mail
+email: eu@fabionobre.com.br
 #blog logo
 logo: "/assets/images/df_logo.jpg"
 # blog cover
 cover: "/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg"
 
-name: 'Dirk Fabisch'
-author: 'Dirk Fabisch'
+name: 'Fabio Nobre'
+author: 
+  name: 'Fabio Nobre'
+  bio: 'Teste de biografia'
 author_image: "/assets/images/author.jpg"
 
 paginate:	5
 
-url: "http://myblog.***.***" # the base hostname & protocol for your site
+url: "http://fabionobre.github.io" # the base hostname & protocol for your site
 baseurl: ""
 #used to display twitter cards
-twitter_handle: '@dirkfabisch'
+twitter_handle: '@eufabionobre'
 
 #fill in disqus shortname to use disqus
 #disqus: disqus-shortname
@@ -32,8 +34,8 @@ twitter_handle: '@dirkfabisch'
 # social icons and sharing options
 social:
   - icon:	twitter
-    url:	https://twitter.com/dirkfabisch
-    desc: Follow me on twitter
+    url:	https://twitter.com/eufabionobre
+    desc: Sigam-me no twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -46,7 +48,7 @@ social:
 #    share_link: "&amp;u="
 
   - icon:	github
-    url:	https://github.com/dirkfabisch
+    url:	https://github.com/fabionobre
     desc:	Fork me on github
     share_url:
     share_title:
