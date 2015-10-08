@@ -3,7 +3,6 @@ layout: post
 title:  "Seja bem vindo"
 date:   2015-09-26 10:46:00
 categories: ideias
-tags: featured
 image: /assets/photos/ideias.jpg
 ---
 Resolvi tentar mais uma vez, estou criando esse novo "blog" onde irei compartilhar não só coisas técnicas mas também coisas que eu achar interessante. Tentarei postar com uma certa frequencia e quem sabe dará certo.

@@ -3,7 +3,6 @@ layout: post
 title:  "O que esperar ao modificar o ip do servidor"
 date:   2015-10-08 07:10:00
 categories: internet
-tags: featured
 image: /assets/photos/internet.jpg
 ---
 ##Começando do começo, o que é DNS ?
