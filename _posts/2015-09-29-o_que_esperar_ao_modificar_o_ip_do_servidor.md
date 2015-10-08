@@ -6,7 +6,8 @@ categories: internet
 tags: featured
 image: /assets/photos/internet.jpg
 ---
-#Começando do começo, o que é DNS ?
+##Começando do começo, o que é DNS ?
+
 
 Sendo bem simplista, DNS é um conjunto de computadores que tem a função de traduzir um endereço textual para um endereço IP. Assim, quando você quer acessar um site e digita o endereço www.qualquersite.com.br o seu browser irá acessar a rede de servidores DNS e encaminhar a requisição para o servidor correto.
 
@@ -16,7 +17,8 @@ Vendo de fora parece algo simples e rápido de ser feito. Porém a rede DNS é f
 
 O registro.br afirma que publica as alterações de DNS a cada hora e que todo o processo poderá levar até 36 horas para ser concluído.
 
-#O que acontece na prática.
+##O que acontece na prática.
+
 
 Quando é feita a alteração do endereço DNS os servidores começam a informar (propagar) aos outros servidores que houve uma mudança. E esse ciclo de notificação entre servidores ocorre até que todos estejam atualizados.
 
@@ -26,7 +28,8 @@ Se além de modificar o servidor você estiver modificando o core da aplicação
 
 Foi assim que aconteceu com o Eu Que Faço, tivemos um período de aproximadamente 12 horas de muita instabilidade e inconsistência. Quanto tínhamos dois servidores diferentes respondendo a requisições tanto do serviço novo como do serviço antigo. Felizmente o processo todo não demorou mais de 24 horas.
 
-#Dicas
+##Dicas
+
 
 - Faça a alteração em dias de poucos acessos
 - Não modifique serviço e servidor de uma só vez
