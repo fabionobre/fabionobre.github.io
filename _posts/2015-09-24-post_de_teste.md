@@ -14,9 +14,3 @@ Por que resolvi tentar de novo ?
 - Terceiro, estou nesse exato momento subindo um novo serviço na web o que poderá quem sabe se tornar uma empresa. E gostaria de compartilhar um pouco os desafios, sucesso e fracasso dessa caminhada.
 
 Sejam todos bem vindos !
-
-{% highlight ruby %}
-def foo
-  puts 'foo'
-end
-{% endhighlight %}
