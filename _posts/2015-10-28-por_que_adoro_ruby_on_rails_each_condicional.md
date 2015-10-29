@@ -3,7 +3,6 @@ layout: post
 title:  "Por que adoro Ruby on Rails - Each condicional"
 date:   2015-10-28 22:00:00
 categories: desenvolvimento
-tags: featured
 image: /assets/photos/desenvolvimento.jpg
 ---
 Normalmente fazer uma iteração em uma lista são necessárias algumas linhas de codigo. E se você precisar filtrar a lista e exibir apenas alguns elementos dela, como fazer ?

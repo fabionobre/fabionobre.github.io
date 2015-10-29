@@ -3,7 +3,6 @@ layout: post
 title:  "Como perder milhares de visitas em uma semana"
 date:   2015-10-23 12:00:00
 categories: desenvolvimento
-tags: featured
 image: /assets/photos/desenvolvimento.jpg
 ---
 Recentemente concluímos a migração do site Eu Que Faço - www.euquefao.com.br - para um novo servidor, uma nova linguagem de programação e um novo banco de dados. Uma mudança muito radical motivada pelo código anterior está praticamente inlegível, complicado para corrigir bugs e criar novas funcionalidades.
