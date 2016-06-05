@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Seja bem vindo"
+title:  "Welcome"
 date:   2015-09-26 10:46:00
 categories: ideias
 image: /assets/photos/ideias.jpg
