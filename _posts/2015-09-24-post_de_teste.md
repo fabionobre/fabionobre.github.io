@@ -5,12 +5,12 @@ date:   2015-09-26 10:46:00
 categories: ideias
 image: /assets/photos/ideias.jpg
 ---
-Resolvi tentar mais uma vez, estou criando esse novo "blog" onde irei compartilhar não só coisas técnicas mas também coisas que eu achar interessante. Tentarei postar com uma certa frequencia e quem sabe dará certo.
+I decided to try once again. I'm creating this new blog to share not only about programming and technology but everything I consider interesting,. I will try to post every week. I will try.
 
-Por que resolvi tentar de novo ? 
+Why I decided to start it again?
 
-- Primeiro, sempre quis ter um espaço para compartilhar conhecimento e idéias. 
-- Segundo, descobri uma nova ferramenta de CMS o Jekyll, que para mim caiu como uma luva. Facilitando e muito a manutenção e criação do conteúdo.
-- Terceiro, estou nesse exato momento subindo um novo serviço na web o que poderá quem sabe se tornar uma empresa. E gostaria de compartilhar um pouco os desafios, sucesso e fracasso dessa caminhada.
+­- First, I have always liked to share any kind of knowledge and good ideas.
+­- Second, I discovered another CMS tool called Jekyll. Jekyll was created in Ruby and Github supports it in its page. So, it is too easy to manage and create content.
+­- Third, I'm deploying in this exact moment a new service created by me, and I think it is good to share with you the goodies and the badies that will happened with this project. It is a way to motivate me.
 
-Sejam todos bem vindos !
+Welcome.
