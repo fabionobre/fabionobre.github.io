@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Por que adoro Ruby on Rails - Each condicional"
+title:  "Why I love Ruby on Rails - Each condicional"
 date:   2015-10-28 22:00:00
 categories: desenvolvimento
 image: /assets/photos/desenvolvimento.jpg
 ---
-Normalmente fazer uma iteração em uma lista são necessárias algumas linhas de codigo. E se você precisar filtrar a lista e exibir apenas alguns elementos dela, como fazer ?
+Usually iterating a list requires a lot of line of code. And if you want to filter the list to show only certain elements ? What will you do ?
 
-Com Rails é algo simples e trivial. 
+Using rails is very simple.
 
-Digamos que você tenha uma lista de produtos e necessita exibir apenas os produtos ativo. Como fazer em rails ?
+Let's think that you have a list of products and have to filter and display only the actives. How do we do this in rails ?
 
 {% highlight ruby %}
-produtos.where(:ativo => true).each do |produto|
-  puts produto
+products.where(:active => true).each do |product|
+  puts product
 end
 {% endhighlight %}
 
-Simplesmente simples e fantástico.
+Really simple and fantastic.
