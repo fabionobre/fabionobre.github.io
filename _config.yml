@@ -35,7 +35,7 @@ twitter_handle: '@eufabionobre'
 social:
   - icon:	twitter
     url:	https://twitter.com/eufabionobre
-    desc: Sigam-me no twitter
+    desc: Follow me on twitter
     share_url: http://twitter.com/share
     share_title: ?text=
     share_link: "&amp;url="
@@ -50,6 +50,13 @@ social:
   - icon:	github
     url:	https://github.com/fabionobre
     desc:	Fork me on github
+    share_url:
+    share_title:
+    share_link:
+
+  - icon: linkedin
+    url:  https://br.linkedin.com/in/eufabionobre
+    desc: Connect with me on Linkedin
     share_url:
     share_title:
     share_link:
