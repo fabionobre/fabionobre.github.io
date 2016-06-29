@@ -14,16 +14,16 @@ I love working with the latest technologies; writing clean, readable and reusabl
 
 I have strong knowledge of:
 
-• Java and Ruby on Rails
-• Web applications
-• REST Web Services
-• A lot of Java technologies like Hibernate, JSF, Primefaces, vRaptor.
-• Bootstrap, jQuery, CSS, HTML5, JavaScript
+- Java and Ruby on Rails
+- Web applications
+- REST Web Services
+- A lot of Java technologies like Hibernate, JSF, Primefaces, vRaptor.
+- Bootstrap, jQuery, CSS, HTML5, JavaScript
 
 I have a strong agile mindset and love to work with Scrum and Kanban.
 
 You can follow me on my social networks:
 
-[https://github.com/fabionobre](Github (https://github.com/fabionobre))
-[https://br.linkedin.com/in/eufabionobre](Linkedin (https://br.linkedin.com/in/eufabionobre))
-[https://twitter.com/eufabionobre](Twitter (https://twitter.com/eufabionobre))
+[Github (https://github.com/fabionobre)](https://github.com/fabionobre)
+[Linkedin (https://br.linkedin.com/in/eufabionobre)](https://br.linkedin.com/in/eufabionobre)
+[Twitter (https://twitter.com/eufabionobre)](https://twitter.com/eufabionobre)
