@@ -3,7 +3,6 @@ layout: page
 title: About me
 permalink: /about/
 ---
-
 I'm passionate about coding and love to create new things. I'm a Java developer at my 9to5 work and work with Rails on my free time. 
 
 I have at least 5 years experience working as a Java developer and 2+ years with Ruby on Rails. I have a lot of experience creating amazing web enterprise software. 
