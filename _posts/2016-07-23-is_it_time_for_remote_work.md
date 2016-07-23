@@ -15,7 +15,7 @@ What is the best or maybe the only way to work like that ? Obviously, it is to w
 
 **Getting paid in dollars or Euros:** when you work remotely you receive your money in dollars or Euros. Maybe you will receive a lot more than if you are working in your country.
 
-This little thing makes me go searching for remote work. I found a great company with great reviews and I applied to work there. This company is called **[Toptal](https://www.toptal.com)** and has a lot of clients all over the world. They have very high standards when recruiting people to work with them, and it is so great because they work only with the best.
+This little thing makes me go searching for remote work. I found a great company with great reviews and I applied to work there. This company is called **[Toptal](https://www.toptal.com/software)** and has a lot of clients all over the world. They have very high standards when recruiting people to work with them, and it is so great because they work only with the best.
 
 I'm so excited to take part in their recruitment process. And when I have more news I will share with you.
 
